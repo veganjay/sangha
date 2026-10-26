@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sangha Notes
 layout: home
 ---
 
